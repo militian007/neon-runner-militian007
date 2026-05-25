@@ -1,0 +1,14 @@
+{
+  "name": "neon-runner",
+  "version": "1.0.0",
+  "description": "NEON RUNNER — Cyberpunk 2D Platformer Game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
